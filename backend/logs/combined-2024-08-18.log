@@ -1,0 +1,14 @@
+2024-08-18 22:34:44 [INFO]: Server app listening on port 5000!
+2024-08-18 22:35:24 [INFO]: POST /api/customer/login
+2024-08-18 22:35:52 [INFO]: POST /api/customer/verifyOtp
+2024-08-18 22:35:57 [INFO]: GET /api/product/all-products
+2024-08-18 22:36:01 [INFO]: POST /api/cart/register
+2024-08-18 22:36:02 [INFO]: GET /api/cart/customer1
+2024-08-18 22:36:02 [INFO]: GET /api/product/509936
+2024-08-18 22:36:02 [INFO]: GET /api/product/435240
+2024-08-18 22:36:02 [INFO]: GET /api/product/509936
+2024-08-18 22:36:07 [INFO]: GET /api/product/all-products
+2024-08-18 22:36:12 [INFO]: GET /api/cart/customer1
+2024-08-18 22:36:12 [INFO]: GET /api/product/509936
+2024-08-18 22:36:12 [INFO]: GET /api/product/435240
+2024-08-18 22:36:12 [INFO]: GET /api/product/509936

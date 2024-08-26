@@ -1,0 +1,63 @@
+.customer-title{
+    font-family: outfit !important;
+    font-weight: 400 !important;
+}
+
+.customer-sub-headings{
+    font-family: poppins !important;
+    font-weight: 400 !important;
+}
+
+.customer-form-fields{
+    font-family: poppins !important;
+    font-weight: 400 !important;
+    font-size: 15px !important;
+}
+
+.customer-login-card{
+    max-width: 400px;
+    width: 100%;
+    background: rgb(255 255 255 / 42%);
+}
+
+.customer-login-card form input, .customer-login-card form select{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.customer-login-card form label{
+    font-family: outfit;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.customer-login-links{
+    font-family: outfit !important;
+    font-weight: 400 !important;
+    text-decoration: none !important;
+    color: #fff ;
+}
+
+.offcanvas-body{
+    overflow: hidden;
+}
+
+.customer-post-card{
+    margin-bottom: 40px;
+    border-radius: 10px !important;
+    border: 0px solid black;
+    transition: 0.3s all ease-in-out !important;
+    box-shadow: 10px 10px 8px rgba(0, 0, 0, 0.2) !important;
+}
+
+.customer-post-card:hover{
+    transform: scale(1.05);
+    box-shadow:0px 4px 8px rgba(0, 0, 0, 0.2) ;
+}
+
+.customer-post-media{
+    height: 300px;
+    background-size: cover !important;
+    border-bottom: 1px solid gray;
+}

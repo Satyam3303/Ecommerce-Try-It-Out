@@ -1,0 +1,18 @@
+.footer-title{
+    font-family: 'Outfit';
+    font-weight: 500;
+    font-size: 24px;
+}
+
+
+.footer-sub-headings {
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 15px;
+    text-decoration: none;
+    transition: 0.3s all ease-in-out;
+}
+
+a.footer-sub-headings:hover {
+    letter-spacing: 1px;
+}

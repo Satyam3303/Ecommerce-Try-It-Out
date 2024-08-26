@@ -1,0 +1,63 @@
+{
+    "en": {
+        "Users": {
+            "success": {
+                "otp": "Valid Otp, Login Successful",
+                "login": "Login Failed",
+                "User_Create": "New User Created",
+                "User_Fetch": "User Fetched Successfully",
+                "User_Delete": "User Deleted Successfully",
+                "User_Update": "User Updated Successfully",
+                "All_Users_Fetch": "All Users",
+                "valid_Token": "Valid Toke Provided"
+            },
+            "error": {
+                "otp": "Invalid Otp",
+                "no_user_found": "No Users Found",
+                "empty_fields": "The appropriate fields are Empty",
+                "login": "Login Failed",
+                "User_Create": "Error in Creating User",
+                "User_Fetch": "No User Found",
+                "internal_server_error": "Internal Server Error",
+                "email_phone_userName_already_registered": "Email, phone number, or username is already registered",
+                "ten_digit_phone_number": "Phone number must be of 10 digits",
+                "user_Name_Required": "User name is required",
+                "invalid_Username_Or_Password": "Invalid Username or Password",
+                "no_Token": "No token Provided",
+                "invalid_Token": "Invalid Token Provided"
+            }
+        },
+        "Products": {
+            "success": {
+                "new_Product": "New Product Created",
+                "all_Products_Fetch": "All Products",
+                "update": "Product Updated Successfully",
+                "fetched": "Product Fetched Successfully",
+                "delete": "Product deleted successfully"
+            },
+            "error": {
+                "empty_fields": "The appropriate fields are Empty",
+                "internal_server_error": "Internal Server Error",
+                "product_not_found": "Product Not Found",
+                "user_name_required": "User Name is required"
+            }
+        },
+        "Customer": {
+            "success": {
+                "product_successfully_deleted": "Product successfully deleted from the cart.",
+                "product_successfully_found": "Product successfully Found from the cart."
+            },
+            "error": {
+                "product_not_found": "Product not found in the cart"
+            }
+        },
+        "Orders": {
+            "error": {
+                "internal_server_error": "An internal server error occurred"
+            },
+            "success": {
+                "Order_Created": "Order created successfully"
+            }
+        }
+    }
+}
