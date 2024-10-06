@@ -3990,3 +3990,115 @@ SyntaxError: Unexpected identifier 'order_id'
     at Object.<anonymous> (C:\Users\shiva\OneDrive\Desktop\js_stl\backend\models\Order.js:3:21)
     at Module._compile (node:internal/modules/cjs/loader:1358:14)
     at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-06 21:17:22 [ERROR]: uncaughtException: Unexpected token ')'
+E:\Projects\Ecommerce-Try-It-Out\backend\controllers\userController.js:244
+if () {
+    ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1281:20)
+    at Module._compile (node:internal/modules/cjs/loader:1321:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (E:\Projects\Ecommerce-Try-It-Out\backend\routes\userRoutes.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-06 21:17:25 [ERROR]: uncaughtException: Unexpected token '!'
+E:\Projects\Ecommerce-Try-It-Out\backend\controllers\userController.js:244
+if (password !) {
+             ^
+
+SyntaxError: Unexpected token '!'
+    at wrapSafe (node:internal/modules/cjs/loader:1281:20)
+    at Module._compile (node:internal/modules/cjs/loader:1321:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (E:\Projects\Ecommerce-Try-It-Out\backend\routes\userRoutes.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-06 21:17:25 [ERROR]: uncaughtException: Unexpected token ')'
+E:\Projects\Ecommerce-Try-It-Out\backend\controllers\userController.js:244
+if (password !=) {
+               ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1281:20)
+    at Module._compile (node:internal/modules/cjs/loader:1321:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (E:\Projects\Ecommerce-Try-It-Out\backend\routes\userRoutes.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-06 21:17:26 [ERROR]: uncaughtException: Unexpected token ')'
+E:\Projects\Ecommerce-Try-It-Out\backend\controllers\userController.js:244
+if (password !=) {
+               ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1281:20)
+    at Module._compile (node:internal/modules/cjs/loader:1321:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (E:\Projects\Ecommerce-Try-It-Out\backend\routes\userRoutes.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-06 21:17:26 [ERROR]: uncaughtException: Unexpected token ')'
+E:\Projects\Ecommerce-Try-It-Out\backend\controllers\userController.js:244
+if (password != ) {
+                ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1281:20)
+    at Module._compile (node:internal/modules/cjs/loader:1321:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (E:\Projects\Ecommerce-Try-It-Out\backend\routes\userRoutes.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-06 21:17:53 [ERROR]: uncaughtException: Unexpected token ')'
+E:\Projects\Ecommerce-Try-It-Out\backend\controllers\userController.js:244
+if (password != user.) {
+                     ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1281:20)
+    at Module._compile (node:internal/modules/cjs/loader:1321:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (E:\Projects\Ecommerce-Try-It-Out\backend\routes\userRoutes.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+2024-10-06 21:17:56 [ERROR]: uncaughtException: Unexpected token ')'
+E:\Projects\Ecommerce-Try-It-Out\backend\controllers\userController.js:244
+if () {
+    ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1281:20)
+    at Module._compile (node:internal/modules/cjs/loader:1321:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (E:\Projects\Ecommerce-Try-It-Out\backend\routes\userRoutes.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
